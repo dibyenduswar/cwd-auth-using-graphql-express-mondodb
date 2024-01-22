@@ -1,0 +1,19 @@
+{
+  "name": "express-graphql-with-jwt-auth",
+  "version": "1.0.0",
+  "description": "A sample one page code to demonstrate how we can implement GraphQL using express js and mongodb. The code covers basic jwt authentication and role based authorization.",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon index.js"
+  },
+  "author": "Dweep",
+  "license": "ISC",
+  "dependencies": {
+    "apollo-server": "^3.13.0",
+    "bcrypt": "^5.1.1",
+    "express": "^4.18.2",
+    "graphql": "^16.8.1",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.1.0"
+  }
+}
