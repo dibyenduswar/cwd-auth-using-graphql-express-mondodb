@@ -1,6 +1,8 @@
 **Express GraphQL and MongoDB Authentication Server**
 
-This is a simple authentication server built using Express.js, GraphQL, and MongoDB. It provides functionality for user authentication, password hashing, token generation, and user management. The server is secured using JWT (JSON Web Tokens) for authentication.
+This is a simple authentication server built using Express.js, GraphQL, and MongoDB. It provides functionality for user authentication, password hashing, token generation, and user management. The server is secured using JWT (JSON Web Tokens) for authentication. 
+
+Read the full article: https://codewithdweep.com/javascript/secure-authentication-with-graphql-express-js-and-mongodb/
 
 **Getting Started** To run this server locally, make sure you have Node.js and MongoDB installed on your machine.
 
