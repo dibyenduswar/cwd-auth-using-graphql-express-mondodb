@@ -11,11 +11,11 @@ This is a simple authentication server built using Express.js, GraphQL, and Mong
 
 **Dependencies**
     
-    express: Web framework for Node.js.
-    jsonwebtoken: Library for generating and verifying JSON Web Tokens.
-    bcrypt: Library for hashing passwords.
-    mongoose: MongoDB object modeling tool designed to work in an asynchronous environment.
-    apollo-server: GraphQL server library.
+   ** express:** Web framework for Node.js.
+    **jsonwebtoken:** Library for generating and verifying JSON Web Tokens.
+   ** bcrypt: **Library for hashing passwords.
+    **mongoose: **MongoDB object modeling tool designed to work in an asynchronous environment.
+   ** apollo-server: **GraphQL server library.
     
 **Usage**
 
@@ -34,7 +34,6 @@ This is a simple authentication server built using Express.js, GraphQL, and Mong
     GET /: Returns "Hello World!"
 
 **Graphql Sample Queries**
-
     Operation - UserCreation
 
     mutation CeateUserMutation( $user: UserCreateInput! ) {
@@ -110,6 +109,5 @@ Operation - getAuthUserDetails
     Headers:
     Authorization Bearer <token>
 
-**Contributing**
-    Feel free to contribute to this project by submitting pull requests or reporting issues.
+**Contributing**: Feel free to contribute to this project by submitting pull requests or reporting issues.
 
