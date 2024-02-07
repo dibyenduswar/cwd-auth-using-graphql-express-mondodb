@@ -11,11 +11,11 @@ This is a simple authentication server built using Express.js, GraphQL, and Mong
 
 **Dependencies**
     
-   ** express:** Web framework for Node.js.
-    **jsonwebtoken:** Library for generating and verifying JSON Web Tokens.
-   ** bcrypt: **Library for hashing passwords.
-    **mongoose: **MongoDB object modeling tool designed to work in an asynchronous environment.
-   ** apollo-server: **GraphQL server library.
+    express: Web framework for Node.js.
+    jsonwebtoken: Library for generating and verifying JSON Web Tokens.
+    bcrypt: Library for hashing passwords.
+    mongoose: MongoDB object modeling tool designed to work in an asynchronous environment.
+    apollo-server: GraphQL server library.
     
 **Usage**
 
